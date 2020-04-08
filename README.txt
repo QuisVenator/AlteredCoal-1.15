@@ -1,3 +1,5 @@
+# IMPORTANT: Project moved to new repositry, this one got destroyed while updating mappings
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
